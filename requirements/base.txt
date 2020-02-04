@@ -1,0 +1,11 @@
+alembic
+bcrypt
+colorama
+fastapi[all]
+gunicorn
+passlib
+psycopg2
+pydantic
+PyJWT
+pytz
+sqlalchemy
