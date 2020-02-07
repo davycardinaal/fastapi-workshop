@@ -24,3 +24,15 @@ exclude = '''
   )/
 )
 '''
+
+[tool.poetry]
+name = "fastapi-workshop"
+version = "0.1.0"
+description = "Awesome api"
+authors = ["Jordy & Davy"]
+
+[tool.poetry.dependencies]
+python = "*"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.4"
